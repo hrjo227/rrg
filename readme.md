@@ -16,7 +16,10 @@ Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at t
 [Map of Red River Gorge](http://home.windstream.net/thejerrys/gorge_crew/maps/biglow.jpg)
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
-![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)
+![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)    
+Title and source...
+
+
 
 <!-- 
     This is a comment. The above line grabs a PNG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). 

@@ -1,5 +1,6 @@
 <!-- Heading 1 -->
 # Whittleton Arch at Red River Gorge
+<!-- Nice research 😀 -->
 
 <!-- First paragraph -->
 Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at the University of Kentucky, and my project this semester will be on the Whittleton Arch at Red River Gorge. 
@@ -10,13 +11,16 @@ Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at t
 <!-- Ordered list -->
 1. In the 1960's, they almost turned the area into a lake.
 2. Red River Gorge is a Natural Archeological District due to it's evidence of early examples of agriculture used by prehistoric peoples.
-3. There are three endangered animals that live in the area.
+3. There are three endangered animals that live in the area. <!-- Tell me more! Which ones? -->
 
 <!-- Link to web page -->
 [Map of Red River Gorge](http://home.windstream.net/thejerrys/gorge_crew/maps/biglow.jpg)
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
-![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)
+![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)    
+Title and source...
+
+
 
 <!-- 
     This is a comment. The above line grabs a PNG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). 

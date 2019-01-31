@@ -1,5 +1,6 @@
 <!-- Heading 1 -->
 # Whittleton Arch at Red River Gorge
+<!-- Nice research 😀 -->
 
 <!-- First paragraph -->
 Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at the University of Kentucky, and my project this semester will be on the Whittleton Arch at Red River Gorge. 

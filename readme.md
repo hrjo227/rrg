@@ -10,7 +10,7 @@ Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at t
 <!-- Ordered list -->
 1. In the 1960's, they almost turned the area into a lake.
 2. Red River Gorge is a Natural Archeological District due to it's evidence of early examples of agriculture used by prehistoric peoples.
-3. There are three endangered animals that live in the area.
+3. There are three endangered animals that live in the area. <!-- Tell me more! Which ones? -->
 
 <!-- Link to web page -->
 [Map of Red River Gorge](http://home.windstream.net/thejerrys/gorge_crew/maps/biglow.jpg)

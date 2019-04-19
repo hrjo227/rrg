@@ -14,7 +14,7 @@ Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at t
 3. There are three endangered animals that live in the area. <!-- Tell me more! Which ones? -->
 
 <!-- Link to web page -->
-[Cliffs over 40' at Whittleton Arch](C:\JohnsonGIS\rrg\Cliffs_Over_40'_Map_72res.jpg)
+[Cliffs over 40' at Whittleton Arch](Cliffs_Over_40'_Map_72res.jpg)
 This is a map of cliffs over 40ft near Whittleton Arch. As you can see, at Whittleton Arch itself, the largest cliff is around 40'. But in the sourrounding area there are cliffs steeper, so watch out!
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
 ![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)    

@@ -20,7 +20,7 @@ This is a map of cliffs over 40ft near Whittleton Arch. As you can see, at Whitt
 ![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)    
 Title and source...
 
-[3D Animation of Whittleton Arch](URL:file:///C:/JohnsonGIS/L7/Whittleton/Whittleton_Arch_Aerial.mp4)
+[3D Animation of Whittleton Arch](https://youtu.be/0loMpPSWhsk)
 
 <!-- 
     This is a comment. The above line grabs a PNG from a URL and will display it as an image. The "Become Happy" text inside the brackets is called an Alt property and is used in case the image is corrupted or for browsers that don't display images (they exist). 

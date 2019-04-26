@@ -134,6 +134,17 @@
 		-->
 		<div id='map'></div>
 
+		<script>
+		  // Add your Mapbox Style and access token
+		  mapboxgl.accessToken = 'pk.eyJ1IjoiaHJqbzIyNyIsImEiOiJjanVrNDM1NWQwMGh0M3lzOHVuNWdrNjl6In0.Qjh3sfTouMfNQ8fSv7ZFIw';
+		  var map = new mapboxgl.Map({
+			container: 'map',
+			style: 'mapbox://styles/hrjo227/cjupz8upp179r1fp5i0d9r12i',
+			// Change zoom and map center to your park
+			zoom: 17.32,
+			center: [-83.660,37.780]
+		  });
+
 		<!-- Your second heading -->
 		<h2>WELCOME</h2>
 

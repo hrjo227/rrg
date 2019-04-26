@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>Upper Whitteton Arch</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    #menu {
+      position: absolute;
+      background: #fff;
+      padding: 10px;
+      font-family: 'Open Sans', sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id='map'></div>
+
+  <script>
+    // Add your Mapbox Style and access token
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaHJqbzIyNyIsImEiOiJjanVrNDM1NWQwMGh0M3lzOHVuNWdrNjl6In0.Qjh3sfTouMfNQ8fSv7ZFIw';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/hrjo227/cjupz8upp179r1fp5i0d9r12i',
+      // Change zoom and map center to your park
+      zoom: 17.32,
+      center: [-83.660,37.780]
+    });
+
+    // Add geolocate control to the map.
+    map.addControl(new mapboxgl.GeolocateControl({
+      positionOptions: {
+        enableHighAccuracy: true
+      },
+      trackUserLocation: true
+    }));
+  </script>
+
+</body>
+
+</html>

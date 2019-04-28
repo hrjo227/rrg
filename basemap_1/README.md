@@ -6,14 +6,32 @@
 <p>The height I measured in ArcGIS is about 36.35ft, and is shaped like a a very tall arch with some lower cliff lines close by. However, the data was a little off because there are trees overhanging the arch and the surrounding clifflines so it is very hard to get very accurate data, although the height is very close to the actual height of the arch.<p>
 
 ## Images
-![A View of the Waterfall Coming Down from Under the Arch] (https://hrjo227.github.io/rrg/basemap_1/images_of_arch/waterfall_view.jpg)
+![A View of the Waterfall Coming Down from Under the Arch](https://hrjo227.github.io/rrg/basemap_1/images_of_arch/waterfall_view.jpg)
 
-![A Formation at the Beginning of the Whittleton Trail] (https://hrjo227.github.io/rrg/basemap_1/images_of_arch/trail_formation.jpg)
+![A Formation at the Beginning of the Whittleton Trail](https://hrjo227.github.io/rrg/basemap_1/images_of_arch/trail_formation.jpg)
 
-![View of the Top of the Arch and a Full View of the Arch] (https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_outside.jpg)
+![View of the Top of the Arch and a Full View of the Arch](https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_outside.jpg)
 
-![View of the Arch as a Whole and of the Waterfall Coming Off the Arch] (https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_outside_2.jpg)
+![View of the Arch as a Whole and of the Waterfall Coming Off the Arch](https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_outside_2.jpg)
 
-![View of Part of Cliff Line and Boulder From Under the Arch] (https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_under.jpg)
+![View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_under.jpg)
 
-![Another View of Part of Cliff Line and Boulder From Under the Arch] (https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_under_2.jpg)
+![Another View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_under_2.jpg)
+
+<img src="https://hrjo227.github.io/rrg/basemap_1/images_of_arch/waterfall_view.jpg" class="max-image-width">
+        <p class="linkbox">A View of the Waterfall Coming Down from Under the Arch</p>
+
+<img src="https://hrjo227.github.io/rrg/basemap_1/images_of_arch/trail_formation.jpg" class="max-image-width">
+        <p class="linkbox">A Formation at the Beginning of the Whittleton Trail</p>
+
+<img src="https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_outside.jpg" class="max-image-width">
+        <p class="linkbox">View of the Top of the Arch and a Full View of the Arch</p>
+
+<img src="https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_outside_2.jpg" class="max-image-width">
+        <p class="linkbox">View of the Arch as a Whole and of the Waterfall Coming Off the Arch</p>
+
+<img src="https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_under.jpg" class="max-image-width">
+        <p class="linkbox">View of Part of Cliff Line and Boulder From Under the Arch</p>
+
+<img src="https://hrjo227.github.io/rrg/basemap_1/images_of_arch/view_under_2.jpg" class="max-image-width">
+        <p class="linkbox">Another View of Part of Cliff Line and Boulder From Under the Arch</p>

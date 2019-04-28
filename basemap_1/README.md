@@ -6,14 +6,14 @@ This arch doubles as a waterfall and along the trail has many boulders that can 
 The height I measured in ArcGIS is about 36.35ft, and is shaped like a a very tall arch with some lower cliff lines close by. However, the data was a little off because there are trees overhanging the arch and the surrounding clifflines so it is very hard to get very accurate data, although the height is very close to the actual height of the arch.
 
 ## Images
-![A View of the Waterfall Coming Down from Under the Arch](https://hrjo227.github.io/rrg/Basemap/waterfall_view.jpg)
+![A View of the Waterfall Coming Down from Under the Arch](https://hrjo227.github.io/rrg/basemap_1/waterfall_view.jpg)
 
-![A Formation at the Beginning of the Whittleton Trail](https://hrjo227.github.io/rrg/Basemap/trail_formation.jpg)
+![A Formation at the Beginning of the Whittleton Trail](https://hrjo227.github.io/rrg/basemap_1/trail_formation.jpg)
 
-![View of the Top of the Arch and a Full View of the Arch](https://hrjo227.github.io/rrg/Basemap/view_outside.jpg)
+![View of the Top of the Arch and a Full View of the Arch](https://hrjo227.github.io/rrg/basemap_1/view_outside.jpg)
 
-![View of the Arch as a Whole and of the Waterfall Coming Off the Arch](https://hrjo227.github.io/rrg/Basemap/view_outside_2.jpg)
+![View of the Arch as a Whole and of the Waterfall Coming Off the Arch](https://hrjo227.github.io/rrg/basemap_1/view_outside_2.jpg)
 
-![View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/Basemap/view_under.jpg)
+![View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/basemap_1/view_under.jpg)
 
-![Another View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/Basemap/view_under_2.jpg)
+![Another View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/basemap_1/view_under_2.jpg)

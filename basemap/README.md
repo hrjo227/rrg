@@ -2,3 +2,18 @@
 Haley Johnson
 April 27, 2019
 Upper Whittleton Arch
+This arch doubles as a waterfall and along the trail has many boulders that can be assumed fell off from the original whittleton arch or something similar to it. The land sourrounding it has karst topography, and can be seen by the disappearing rivers and hole looking depressions in multiple rocks in the area.
+
+
+## Images
+![A View of the Waterfall Coming Down from Under the Arch](https://hrjo227.github.io/rrg/Basemap/waterfall_view.jpg)
+
+![A Formation at the Beginning of the Whittleton Trail](https://hrjo227.github.io/rrg/Basemap/trail_formation.jpg)
+
+![View of the Top of the Arch and a Full View of the Arch](https://hrjo227.github.io/rrg/Basemap/view_outside.jpg)
+
+![View of the Arch as a Whole and of the Waterfall Coming Off the Arch](https://hrjo227.github.io/rrg/Basemap/view_outside_2.jpg)
+
+![View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/Basemap/view_under.jpg)
+
+![Another View of Part of Cliff Line and Boulder From Under the Arch](https://hrjo227.github.io/rrg/Basemap/view_under_2.jpg)

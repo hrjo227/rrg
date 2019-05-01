@@ -27,7 +27,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css" />
 	<link href="https://fonts.googleapis.com/css?family=Signika+Negative:300,700" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
 
 	<!-- 
 		The style tag defines the CSS (Cascading Style Sheet) rules 
@@ -38,8 +38,8 @@
 		body {
 			margin: 0;
 			padding: 0;
-			background: #f5f5f5;
-			background-color: #BEC1C5;
+			background: #9db6a3;
+			background-color: #9db6a3;
 			font-family: 'Signika Negative', sans-serif;
 			color: #2C3E50;
 			font-size: 1.0em;
@@ -55,34 +55,40 @@
 		}
 		h1 {
 			font-size: 4em;
-			font-family: 'Dancing Script', cursive;
-			color: #7a9480;
+			font-family: 'Libre Baskerville', serif;
+			color: #36251e;
 		}
 		h2 {
 			font-size: 2em;
-			font-family: 'Signika Negative', sans-serif;
+			font-family: 'Libre Baskerville', serif;
 			letter-spacing: .05em;
 			font-weight: 300;
-			color: #17202A;
+			color: #36251e;
 			padding: 20px 0 0 0;
 		}
 		h3 {
 			font-size: 1.5em;
-			font-family: 'Dancing Script', cursive;
+			font-family: 'Libre Baskerville', serif;
 			letter-spacing: .04em;
-			color: #7a9480;
+			color: #36251e;
+		}
+		h4 {
+			font-size: 2em;
+			font-family: 'Libre Baskerville', serif;
+			letter-spacing: .04em;
+			color: #36251e;
 		}
 		p {
 			font-size: 1.1em;
 			line-height: 1.4em;
 		}
 		a {
-			color:#8D99AD;
+			color:rgb(7, 65, 165);
 			text-decoration: none;
 		}
 		a:hover {
 			text-decoration: underline;
-			color: skyblue;
+			color: rgb(9, 117, 160);
 		}
 		ul {
 			padding-left: 20px;
@@ -163,9 +169,17 @@
 			Let's use a JPEG file.
 		-->
 		<p>
-			<img src="../rrg/basemap_1/Arches_of_Red_River_Gorge.jpg" class="max-image-width"><br>Map of all the Arches in Red River Gorge
+			<img src="../Cliffs_Map/hillshade_rrg_map.jpg" class="max-image-width"><br>Location of Red River Gorge in Kentucky
 		</p>
 
+		<p>
+			<img src="../basemap_1/Arches_of_Red_River_Gorge.jpg" class="max-image-width"><br>Map of all the Arches in Red River Gorge
+		</p>
+		
+		<h4>Upper Whittleton Arch</h4>
+		</p>
+		One of the beautiful arches at Red River Gorge is Whittleton Arch. You can click <a href="https://hrjo227.github.io/rrg/lab-9/">here</a></li> to view my page on Whittleton Arch!
+		<p>
 		<p>
 			<img src="https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473" class="max-image-width"><br> Waterfall at Whittleton Arch
 		<p>
@@ -217,7 +231,7 @@
 		// ------------------------------------------------------ 
 		// Define a variable that centers the initial view and zoom level. 
 		var options = {
-			center: [37.7831, -83.6638], // lat, long values of Gladie Visitor center
+			center: [37.7805, -83.660], // lat, long values of Gladie Visitor center
 			zoom: 15 // Integer value. Higher value greater the scale.
 		}
 		// ------------------------------------------------------ 

@@ -13,10 +13,13 @@ Welcome to my page! My name is Haley Johnson, I'm a student in Advanced GIS at t
 2. Red River Gorge is a Natural Archeological District due to it's evidence of early examples of agriculture used by prehistoric peoples.
 3. There are three endangered animals that live in the area. <!-- Tell me more! Which ones? -->
 
+![Location of Red River Gorge in Kentucky](https://hrjo227.github.io/rrg/Cliffs_Map/hillshade_rrg_map.jpg)
+
 <!-- Link to web page -->
 ![Map of all the Arches in Red River Gorge](https://hrjo227.github.io/rrg/basemap_1/Arches_of_Red_River_Gorge.jpg)
 
-This is a map of cliffs over 40ft near Whittleton Arch. As you can see, at Whittleton Arch itself, the largest cliff is around 40'. But in the sourrounding area there are cliffs steeper, so watch out!
+## Upper Whittleton Arch
+One of the beautiful arches at Red River Gorge is Whittleton Arch. You can click <a href="https://hrjo227.github.io/rrg/lab-9/">here</a></li> to view my page on Whittleton Arch!
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
 ![Beautiful Picture of Whittleton Arch](https://i1.wp.com/slucherville.com/wp-content/uploads/2017/02/Whittleton-Arch.jpg?fit=710%2C473)    
 Title and source...
